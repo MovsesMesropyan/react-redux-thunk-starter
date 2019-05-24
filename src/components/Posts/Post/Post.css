@@ -1,0 +1,19 @@
+.mm-single-post {
+     margin-bottom: 15px;
+    text-decoration: none;
+     color: #5C536B;
+ }
+.mm-single-post:hover {
+    text-decoration: none;
+    color: #5C536B;
+}
+.mm-single-post .card-body {
+    border: 1px solid #5C536B;
+    border-radius: 5px;
+    padding: 5px;
+}
+.mm-single-post .card-text {
+    height: 60px;
+    padding: 5px;
+    overflow: hidden;
+}

@@ -1,0 +1,10 @@
+.mm-loader-container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+}
+.mm-loader {
+    display: block;
+    margin: 20px auto 0;
+}

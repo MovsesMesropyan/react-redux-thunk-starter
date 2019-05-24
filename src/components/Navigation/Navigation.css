@@ -1,0 +1,25 @@
+.mm-navbar {
+    background-color: rgba(255, 255, 255, .7);
+    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.2);
+    border: 0;
+}
+.mm-navbar .navbar-brand {
+    color: #5C536B;
+    font-weight: bold;
+}
+.mm-navbar .navbar-collapse a {
+    color: #5C536B;
+    border-bottom: 2px solid transparent;
+}
+.mm-navbar .navbar-collapse a:hover,
+.mm-navbar .navbar-collapse a.active {
+    background-color: rgba(92, 83, 107, .1);
+    border-bottom: 2px solid #5C536B;
+}
+.mm-logout-button {
+    padding: 15px;
+    font-size: 18px;
+    color: #5C536B;
+    opacity: 0.6;
+    cursor: pointer;
+}
